@@ -1,4 +1,4 @@
-<p align="center">< # 👋 Hi there! I'm MinDuwcs /></p>
+# 👋 Hi there! I'm MinDuwcs
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=MinDuwcs&color=00cf00)
 
