@@ -37,4 +37,8 @@
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
 ## 👨‍🎓: Stats
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MinDuwcs/MinDuwcs/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+  <img src="https://raw.githubusercontent.com/MinDuwcs/MinDuwcs/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+  <img src="https://raw.githubusercontent.com/MinDuwcs/MinDuwcs/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+</p>
