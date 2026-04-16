@@ -14,7 +14,7 @@
 * 🎓 Data Science Student at **Sai Gon University (SGU)**
 * 🔭 Currently working on **Machine Learning** and **Classification models**
 * 🌐 You can access all my open-source projects here on GitHub
-* btw I use Ubuntu <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ubuntu.svg" width="20" height="20" style="display: inline; margin: 0;" align="center" />
+* btw I use Ubuntu ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
