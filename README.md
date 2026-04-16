@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Min(Duck|nd Duwcs)|(https://github.com/MinDuwcs))" title="👋 Hi there! I'm (Min(Duck|nd Duwcs)|https://github.com/MinDuwcs)"/>](https://github.com/MinDuwcs)
+[<img src="https://raw.githubusercontent.com/MinDuwcs/MinDuwcs/master/intro.gif" alt="👋 Hi there! I'm (Min(Duck|nd Duwcs)|(https://github.com/MinDuwcs))" title="👋 Hi there! I'm (Min(Duck|nd Duwcs)|https://github.com/MinDuwcs)"/>](https://github.com/MinDuwcs)
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=MinDuwcs&color=00cf00)
 
