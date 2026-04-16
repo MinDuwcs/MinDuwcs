@@ -42,3 +42,11 @@
   <img src="https://raw.githubusercontent.com/MinDuwcs/MinDuwcs/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
   <img src="https://raw.githubusercontent.com/MinDuwcs/MinDuwcs/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 </p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MinDuwcs/MinDuwcs/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MinDuwcs/MinDuwcs/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MinDuwcs/MinDuwcs/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
