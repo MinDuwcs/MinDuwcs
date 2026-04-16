@@ -14,7 +14,7 @@
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
 
-### Languages
+## :language: Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -22,7 +22,7 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-### Technologies
+## :Computer: Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
