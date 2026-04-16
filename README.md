@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/MinDuwcs/MinDuwcs/main/intro.gif" alt="👋 Hi there! I'm (Min(Duck|nd Duwcs)|(https://github.com/MinDuwcs))" title="👋 Hi there! I'm (Min(Duck|nd Duwcs)|https://github.com/MinDuwcs)"/>](https://github.com/MinDuwcs)
+# 👋 Hi there! I'm MinDuwcs
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=MinDuwcs&color=00cf00)
 
