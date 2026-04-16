@@ -25,9 +25,9 @@
 
 ## 🚀: Technologies
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=orage)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=blue)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=orage)
 
 
 
