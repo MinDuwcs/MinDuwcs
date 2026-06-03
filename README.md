@@ -12,9 +12,9 @@
 ## 📖: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 * 💻 **AI Engineer** in the making
 * 🎓 Data Science Student at **Sai Gon University (SGU)**
-* 🔭 Currently working on **Machine Learning** and **Classification models**
+* 🔭 Currently working on **Machine Learning**
 * 🌐 You can access all my open-source projects here on GitHub
-* btw I use Ubuntu ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+* btw I use ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
