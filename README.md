@@ -7,7 +7,11 @@
 *𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2026-04-16`
 
 # 💫 About Me:
-Currently studying Data Science at Saigon University.<br><br>Interested in building reliable data pipelines and AI-powered applications.<br><br>Focused on Python, SQL, Machine Learning, and Data Engineering fundamentals.<br><br>Exploring local LLMs and multi-agent architectures.<br><br>Interested in turning experimental projects into practical, deployable systems.
+- 🎓 Currently studying Data Science at Saigon University.
+- 🛠️ Interested in building reliable data pipelines and AI-powered applications.
+- 🐍 Focused on Python, SQL, Machine Learning, and Data Engineering fundamentals.
+- 🤖 Exploring local LLMs and multi-agent architectures.
+- 🚀 Interested in turning experimental projects into practical, deployable systems
 
 
 ## 🌐 Socials:
@@ -30,7 +34,7 @@ Currently studying Data Science at Saigon University.<br><br>Interested in build
 ![](https://github-contributor-stats.vercel.app/api?username=MinDuwcs&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=MinDuwcs&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## 🐍 GitHub Contribution Snake
 
