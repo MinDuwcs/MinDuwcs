@@ -6,12 +6,13 @@
 
 *𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2026-04-16`
 
-# 💫 About Me:
+<h2 align="center">About Me</h2>
+
 - 🎓 Currently studying Data Science at Saigon University.
 - 🛠️ Interested in building reliable data pipelines and AI-powered applications.
-- 🐍 Focused on Python, SQL, Machine Learning, and Data Engineering fundamentals.
+- 🧬 Focused on Python, SQL, Machine Learning, and Data Engineering fundamentals.
 - 🤖 Exploring local LLMs and multi-agent architectures.
-- 🚀 Interested in turning experimental projects into practical, deployable systems
+- 🚀 Interested in turning experimental projects into practical, deployable systems.
 
 
 ## 🌐 Socials:
