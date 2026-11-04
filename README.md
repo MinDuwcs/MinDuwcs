@@ -1,12 +1,10 @@
-<div align="center">
-
 # 👋 Hi there! I'm MinDuwcs
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=MinDuwcs.MinDuwcs&color=00cf00)
 
 *𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2026-04-16`
 
-<h2 align="center">About Me</h2>
+## About Me
 
 - 🎓 Currently studying Data Science at Saigon University.
 - 🛠️ Interested in building reliable data pipelines and AI-powered applications.
@@ -39,19 +37,17 @@
 
 ## 🐍 GitHub Contribution Snake
 
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/MinDuwcs/MinDuwcs/output/github-contribution-grid-snake-dark.svg"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/MinDuwcs/MinDuwcs/output/github-contribution-grid-snake.svg"
-    >
-    <img
-      alt="GitHub contribution grid snake animation"
-      src="https://raw.githubusercontent.com/MinDuwcs/MinDuwcs/output/github-contribution-grid-snake.svg"
-    >
-  </picture>
-</div>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/MinDuwcs/MinDuwcs/output/github-contribution-grid-snake-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/MinDuwcs/MinDuwcs/output/github-contribution-grid-snake.svg"
+  >
+  <img
+    alt="GitHub contribution grid snake animation"
+    src="https://raw.githubusercontent.com/MinDuwcs/MinDuwcs/output/github-contribution-grid-snake.svg"
+  >
+</picture>
