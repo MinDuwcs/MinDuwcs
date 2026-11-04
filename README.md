@@ -1,8 +1,12 @@
 <h1 align="center">👋 Hi there! I'm MinDuwcs</h1>
 
+<div align="center">
+
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=MinDuwcs.MinDuwcs&color=00cf00)
 
 *𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2026-04-16`
+
+</div>
 
 ## About Me
 
